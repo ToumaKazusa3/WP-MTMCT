@@ -1,6 +1,9 @@
 # WP-MTMCT
 Implementation of "Wireless-Aware Progressive Framework for Multi-Target Multi-Camera Tracking"
 
+## News
+**2021.4.19** The code of updated version of RCPM and post process has been uploaded.
+
 ## Overview
 An overview of the problem studied in this work:
 <div align=center>
@@ -21,4 +24,4 @@ We define a new task of Multi-Target Multi-Camera Tracking (MTMCT) with both vis
 
 If you are interested in WP-MTMCT dataset, please contact us by email ssjxjx@mail.ustc.edu.cn
 
-The code will be release soon.
+The complete code will be release soon.
